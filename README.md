@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @IDTBDM1716
-- 👀 I’m interested in programing codes.
-- 🌱 I’m currently learning in Haramaya university.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me(idodawit@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-IDTBDM1716/IDTBDM1716 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Idossa Dhibissa
+🔍 I specialize in programming, website development, networking, and data mining & analysis.
+🎓 Currently pursuing my studies at Haramaya University.
+🌱 Continuously expanding my skills in Full Stack Development and Networking.
+🤝 I’m open to collaborating on projects related to Full Stack Development and Networking.
+📬 Feel free to reach out to me via email: idodawit@gmail.com
+💬 Pronouns: He/Him
+⚡ Fun fact: I’m passionate about technology and innovation, always eager to learn and grow in the field.
